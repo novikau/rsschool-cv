@@ -15,6 +15,6 @@ Delphi,VFP,SQL
         where p1>0 ```*
 *********
 ### experience:
-little experience ……
+little experience ……...
 ******
 #### About me
