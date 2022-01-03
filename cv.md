@@ -5,7 +5,7 @@
 s_nov@mail.ru
 *********
 ### My source:
-*I want to study*
+*I want to study!*
 **********
 ### Projects with : 
 Delphi,VFP,SQL
